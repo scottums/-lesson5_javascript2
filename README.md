@@ -4,7 +4,7 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(July 1, 2017Year)
+(July 1, 2017)
 
 ### Student Name:  
 (Scott Campbell)
